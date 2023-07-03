@@ -1,6 +1,6 @@
-![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/Gera-o-Tech-Unimed-BH---Ci-ncia-de-Dados)
+![GitHub language count](https://img.shields.io/github/languages/count/jeffersonASilva/Machine_Learning_scikit-learn)
 
-![GitHub top language](https://img.shields.io/github/languages/top/jeffersonASIlva/Gera-o-Tech-Unimed-BH---Ci-ncia-de-Dados)
+![GitHub top language](https://img.shields.io/github/languages/top/jeffersonASIlva/Machine_Learning_scikit-learn)
 
 ## Projeto Modelagem de Tópicos do Noticiário Financeiro - Ensemble Voting
 
@@ -20,5 +20,4 @@ conceitos estatísticos são cruciais em aprendizagem ensemble, viés e variânc
 Consiste em 2.225 documentos do site de notícias da BBC correspondentes a histórias em cinco áreas temáticas de 2004-2005.
 Natural Classes: 5 (negócios, entretenimento, política, esporte, tecnologia)
 
-acesse site com dados [aqui](http://mlg.ucd.ie/datasets/bbc.html
-).
+acesse site com dados [aqui](http://mlg.ucd.ie/datasets/bbc.html).
